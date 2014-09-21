@@ -6,7 +6,7 @@
 ##P1-project Created by: Houda Benqassem
 
 ## Live URL
-http://p1.doudette.practice-dwa15.me/html/
+http://p1.doudette.practice-dwa15.me/
 
 ## Description
 
