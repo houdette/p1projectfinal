@@ -50,7 +50,7 @@
 		View: Link: <a href="http://p2.doudette.practice-dwa15.me/">[link]</a> Github: <a href="https://github.com/houdette/p2-project">[link]</a>
 		
 		<h3>Third Project</h3>
-		View: Link: <a href="http://p3.doudette.practice-dwa15.me/">[link]</a> Github: <a href="https://github.com/houdette/p3-project">[link]</a>
+		View: Link: <a href="http://p3.practice-dwa15.me/">[link]</a> Github: <a href="https://github.com/houdette/p3-project">[link]</a>
 		
 		<h3>Fourth Project</h3>
 		View: Link: <a href="http://p4.doudette.practice-dwa15.me/">[link]</a> Github: <a href="https://github.com/houdette/p4-project">[link]</a>
